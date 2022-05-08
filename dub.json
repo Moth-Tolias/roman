@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Su"
+	],
+	"copyright": "Copyright © 2022, Su",
+	"description": "library for messing about with roman numerals",
+	"license": "AGPL-3.0 or later",
+	"name": "numerator",
+	"dflags": ["-preview=dip1000", "-preview=in"]
+}
